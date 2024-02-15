@@ -13,7 +13,7 @@ Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Scie
 
 ## My Interests
 
-Currently, my research endeavors are principally centered on the intersection of **Artificial Intelligence (AI) + Energy Systems/Environment Systems**. I am dedicated to harnessing the advanced capabilities of deep learning and machine learning methodologies to conduct in-depth analyses of energy datasets. The overarching aim of my work is to facilitate a transition towards more sustainable energy systems by optimizing energy consumption patterns and significantly mitigating carbon emissions. At the forefront of my interests lies a series of cutting-edge research themes:
+Currently, my research endeavors are principally centered on the intersection of **Artificial Intelligence (AI) + Energy Systems/Environment Systems**. I am dedicated to harnessing the advanced capabilities of deep learning and machine learning methodologies to conduct in-depth analyses of energy/environment datasets. The overarching aim of my work is to facilitate a transition towards more sustainable energy systems by optimizing energy consumption patterns and significantly mitigating carbon emissions. At the forefront of my interests lies a series of cutting-edge research themes:
 
 **1. Exploring Deep Learning for Long-sequence Time-series Forecasting (LSTF)**: My focus is on developing sophisticated neural network architectures that can accurately predict energy demands and renewable energy supply over mid/long term. This involves tackling the inherent challenges of long-sequence forecasting.
 
