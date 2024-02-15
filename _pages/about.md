@@ -21,7 +21,7 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **3. Hybrid Framework Design for Ultra-short-term Time-series Prediction**: My work involves the integration of various modeling approaches to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading.
 
-**4. Advancement and Application of Meta-heuristic Optimization Algorithms**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources.
+**4. Developing, Advancement, and Application of Meta-heuristic Optimization Algorithms**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources.
 
 
 ## News in 2024
