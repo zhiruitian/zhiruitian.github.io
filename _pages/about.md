@@ -49,9 +49,7 @@ Currently, my research endeavors are principally centered on the intersection of
  **[7]** Zhirui Tian, Jiyang Wang, Variable frequency wind speed trend prediction system based on combined neural network and improved multi-objective optimization algorithm, Energy, Volume 254, Part A, 2022, 124249, ISSN 0360-5442,
 [https://doi.org/10.1016/j.energy.2022.124249](https://doi.org/10.1016/j.energy.2022.124249), **IF=9, JCR Q1**.
 
-**[8]** Zhirui Tian, Jiyang Wang, A Novel Wind Speed Interval Prediction System Based on Neural Network and Multi-objective Grasshopper Optimization, International Transactions on Electrical Energy Systems, vol. 2022, 2022, [https://doi.org/10.1155/2022/5823656](https://doi.org/10.1155/2022/5823656), **IF=2.3, JCR Q3**
-
-
+**[8]** Zhirui Tian, Jiyang Wang, A Novel Wind Speed Interval Prediction System Based on Neural Network and Multi-objective Grasshopper Optimization, International Transactions on Electrical Energy Systems, vol. 2022, 2022, [https://doi.org/10.1155/2022/5823656](https://doi.org/10.1155/2022/5823656), **IF=2.3, JCR Q3**.
 
 **[9]** Wendong Yang, Zhirui Tian(*), Yan Hao, A novel ensemble model based on artificial intelligence and mixed-frequency techniques for wind speed forecasting, Energy Conversion and Management, Volume 252, 2022, 115086, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2021.115086](https://doi.org/10.1016/j.enconman.2021.115086), **IF=10.4, JCR Q1**.
 
