@@ -53,3 +53,11 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **[9]** Wendong Yang, Zhirui Tian(*), Yan Hao, A novel ensemble model based on artificial intelligence and mixed-frequency techniques for wind speed forecasting, Energy Conversion and Management, Volume 252, 2022, 115086, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2021.115086](https://doi.org/10.1016/j.enconman.2021.115086), **IF=10.4, JCR Q1**.
 
+
+## Honor
+**1.** Mathematical Contest in Modeling (MCM) By COMAP in 2022: **Meritorious Winner** (Team Leader)
+**2.** Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in 2022: **National Second Prize** (Team Leader)
+**3.** 11th National College Student Market Research and Analysis Competition in 2021: **National First Prize** (Team Leader)
+**4.**	National Statistical Modeling Competition for College students in 2021: **National Third Prize** (Team Leader)
+**5.**	National Projects for Innovation and Entrepreneurship of College Students (Responsible Person)
+
