@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a first-year Ph.D. student at School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by **Prof. Chenye Wu**. Before that, I obtained a bachelor's degree at School of Statistics, Dongbei University of Finance and Economics (DUFE), supervised by **Prof. Jianzhou Wang**. 
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by **Prof. Chenye Wu**. Before that, I obtained a bachelor's degree at School of Statistics, Dongbei University of Finance and Economics (DUFE), supervised by **Prof. Jianzhou Wang**. 
 
 ## My Interests
 
