@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by **Prof. Chenye Wu**. Before that, I obtained a bachelor's degree at School of Statistics, Dongbei University of Finance and Economics (DUFE), supervised by **Prof. Jianzhou Wang**. 
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by **Prof. Chenye Wu**. Before that, I obtained a bachelor's degree at School of Statistics, Dongbei University of Finance and Economics (DUFE), supervised by **Prof. Jianzhou Wang**. I rank the 2nd in School of Statistics, DUFE with a GPA of (92.45/100), and got Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
 
 ## My Interests
 
@@ -55,9 +55,14 @@ Currently, my research endeavors are principally centered on the intersection of
 
 
 ## Honor
-**1.** Mathematical Contest in Modeling (MCM) By COMAP in 2022: **Meritorious Winner** (Team Leader)
-**2.** Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in 2022: **National Second Prize** (Team Leader)
-**3.** 11th National College Student Market Research and Analysis Competition in 2021: **National First Prize** (Team Leader)
-**4.**	National Statistical Modeling Competition for College students in 2021: **National Third Prize** (Team Leader)
-**5.**	National Projects for Innovation and Entrepreneurship of College Students (Responsible Person)
+
+**1.** Mathematical Contest in Modeling (MCM) By COMAP in 2022: **Meritorious Winner** (Team Leader).
+
+**2.** Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in 2022: **National Second Prize** (Team Leader).
+
+**3.** 11th National College Student Market Research and Analysis Competition in 2021: **National First Prize** (Team Leader).
+
+**4.**	National Statistical Modeling Competition for College students in 2021: **National Third Prize** (Team Leader).
+
+**5.**	**National Projects** for Innovation and Entrepreneurship of College Students (Responsible Person).
 
