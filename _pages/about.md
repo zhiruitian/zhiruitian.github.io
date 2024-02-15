@@ -13,7 +13,14 @@ Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Scie
 
 ## My Interests
 
-Now, I mainly focus on **AI+Energy**. At present, I am mainly good at the design of prediction algorithms based on deep learning, hybrid prediction system based on ensemble / combined model, and meta-heuristic optimization.
+Now, I mainly focus on **AI+Energy**. I am committed to using deep learning/machine learning methods to better analyze energy data and achieve the effect of reducing carbon emissions. At present, I am mainly interested in：
+
+1. Deep learning for Long-sequence Time-series Forecasting (LSTF) problems.
+2. Transfer strategy design for Few-shot Learning problems.
+3. Hybrid framework design for higher Ultra-short-term Time-series Prediction accuracy.
+4. Development, Improvement, and Application of Meta-heuristic Optimization Algorithms.
+
+
 
 ## News in 2024
 
