@@ -11,5 +11,5 @@ Hi everyone! I am Zhirui Tian, a first-year Ph.D. student at School of Science a
 
 **My Interests**
 
-Now, I mainly focus on AI+Energy, At present, I am mainly good at the design of prediction algorithms based on deep learning, hybrid prediction system design based on ensemble / combined model, and meta-heuristic optimizations.
+Now, I mainly focus on AI+Energy. At present, I am mainly good at the design of prediction algorithms based on deep learning, hybrid prediction system based on ensemble / combined model, and meta-heuristic optimization.
 
