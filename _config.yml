@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Guangdong-China"
+locale                   : #"Guangdong-China"
 title                    : "Zhirui Tian's Home Page"
-title_separator          : "Zhirui Tian's Home Page"
+title_separator          : #"Zhirui Tian's Home Page"
 name                     : &name "Zhirui Tian (田智睿)"
 description              : &description "personal description"
 url                      : "https://zhiruitian.github.io/"
