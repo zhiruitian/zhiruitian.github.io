@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by **Prof. Chenye Wu**. Before that, I obtained a bachelor's degree at School of Statistics, Dongbei University of Finance and Economics (DUFE), supervised by **Prof. Jianzhou Wang**. I rank the 2nd in School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank the **2nd** in School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
 
 ## My Interests
 
@@ -32,7 +32,7 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **2024.1.2**  My new research Paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" is now available online on **Expert Systems with Applications (JCR Q1, IF=8.5)**, you can download the whole paper and the code of FTTA at [https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088). I am the first author of this paper, supervised by **Prof. Mei Gai**.
 
-## Publications
+## Publications (Journal)
  **[1]** Zhirui Tian, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **IF=9, JCR Q1**.
  
  **[2]** Zhirui Tian, Mei Gai, Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization, Expert Systems with Applications, Volume 245, 2024, 123088, ISSN 0957-4174,
