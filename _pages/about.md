@@ -13,13 +13,15 @@ Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at School of Scie
 
 ## My Interests
 
-Now, I mainly focus on **AI+Energy**. I am committed to using deep learning/machine learning methods to better analyze energy data and achieve the effect of reducing carbon emissions. At present, I am mainly interested in：
+Currently, my research endeavors are principally centered on the intersection of **Artificial Intelligence (AI) + Energy Systems/Environment Systems**. I am dedicated to harnessing the advanced capabilities of deep learning and machine learning methodologies to conduct in-depth analyses of energy datasets. The overarching aim of my work is to facilitate a transition towards more sustainable energy systems by optimizing energy consumption patterns and significantly mitigating carbon emissions. At the forefront of my interests lies a series of cutting-edge research themes:
 
-1. Deep learning for Long-sequence Time-series Forecasting (LSTF) problems.
-2. Transfer strategy design for Few-shot Learning problems.
-3. Hybrid framework design for higher Ultra-short-term Time-series Prediction accuracy.
-4. Development, Improvement, and Application of Meta-heuristic Optimization Algorithms.
+**1. Exploring Deep Learning for Long-sequence Time-series Forecasting (LSTF)**: My focus is on developing sophisticated neural network architectures that can accurately predict energy demands and renewable energy supply over mid/long term. This involves tackling the inherent challenges of long-sequence forecasting.
 
+**2. Innovative Transfer Strategies for Few-shot Learning Problems**: I am investigating how to effectively adapt pre-trained models to new, limited-data contexts within the energy sector. This includes creating robust models that can generalize well from minor data quantity, thereby addressing the data scarcity issue prevalent in many specialized energy applications.
+
+**3. Hybrid Framework Design for Ultra-short-term Time-series Prediction**: My work involves the integration of various modeling approaches to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading.
+
+**4. Advancement and Application of Meta-heuristic Optimization Algorithms**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources.
 
 
 ## News in 2024
