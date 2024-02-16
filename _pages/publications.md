@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal
 
-**[1]** **Zhirui Tian**, Weican Liu, Wenpu Sun, Chenye Wu, From LMP to eLMP-An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble Approach, Subbmitted to Energy Economics.
+**[1]** **Zhirui Tian**, Weican Liu, Wenpu Sun, Chenye Wu, From LMP to eLMP: An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble Approach, Subbmitted to Energy Economics.
 
 **[2]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **IF=9, JCR Q1**.
  
@@ -26,7 +26,7 @@ author_profile: true
 
 **[9]** **Zhirui Tian**, Jiyang Wang, A Novel Wind Speed Interval Prediction System Based on Neural Network and Multi-objective Grasshopper Optimization, International Transactions on Electrical Energy Systems, vol. 2022, 2022, [https://doi.org/10.1155/2022/5823656](https://doi.org/10.1155/2022/5823656), **IF=2.3, JCR Q3**.
 
-**[10]** **Wendong Yang**, Zhirui Tian(*), Yan Hao, A novel ensemble model based on artificial intelligence and mixed-frequency techniques for wind speed forecasting, Energy Conversion and Management, Volume 252, 2022, 115086, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2021.115086](https://doi.org/10.1016/j.enconman.2021.115086), **IF=10.4, JCR Q1**.
+**[10]** Wendong Yang, **Zhirui Tian(*)**, Yan Hao, A novel ensemble model based on artificial intelligence and mixed-frequency techniques for wind speed forecasting, Energy Conversion and Management, Volume 252, 2022, 115086, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2021.115086](https://doi.org/10.1016/j.enconman.2021.115086), **IF=10.4, JCR Q1**.
 
 
 ## Conference
