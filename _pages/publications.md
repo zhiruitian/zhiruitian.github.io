@@ -31,4 +31,3 @@ author_profile: true
 
 **[1]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, Accepted by PES General Meeting 2024.
  
-**[2]** Weican Liu, **Zhirui Tian**, Chenbei Lu, Chenye Wu, Unlocking Economic Dispatch Efficiency through Probabilistic Load Forecasting, Submitted to ACM e-energy 2024.
