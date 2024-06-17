@@ -32,4 +32,5 @@ author_profile: true
 ## Conference
 
 **[1]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, Accepted by PES General Meeting 2024.
- 
+
+**[2]** Wenpu Sun, **Zhirui Tian**, Chenye Wu, Enhancing Probabilistic Peak Load Forecasting with Fuzzy Information Granulation and Deep Learning, Accepted by PSET 2024.
