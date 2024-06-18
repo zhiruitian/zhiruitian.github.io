@@ -36,7 +36,7 @@ Currently, my research endeavors are principally centered on the intersection of
 
 ## News in 2024
 
-**2024.6.15**  My new research Paper "A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism" is now available online on **Applied Soft Computing (JCR Q1, IF=8.7)**, you can download the whole paper at [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.asoc.2024.111863). I am the corresponding author as well as the co-first author of this paper. 
+**2024.6.15**  My new research Paper "A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism" is now available online on **Applied Soft Computing (JCR Q1, IF=8.7)**, you can download the whole paper at [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863). I am the corresponding author as well as the co-first author of this paper. 
 
 **2024.2.10**  My new research Paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" is now available online on **Energy (JCR Q1, IF=9)**, you can download the whole paper at [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
