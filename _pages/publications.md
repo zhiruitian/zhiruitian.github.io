@@ -9,7 +9,7 @@ author_profile: true
 
 **[1]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=8.7, JCR Q1**.
 
-**[2]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **IF=9, JCR Q1**.
+**[2]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Highly Cited Paper**, **IF=9, JCR Q1**.
  
 **[3]** **Zhirui Tian**, Mei Gai, Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization, Expert Systems with Applications, Volume 245, 2024, 123088, ISSN 0957-4174,
 [https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088), **IF=8.5, JCR Q1**.
