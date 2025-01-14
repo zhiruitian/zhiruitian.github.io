@@ -39,9 +39,10 @@ Currently, my research endeavors are principally centered on the intersection of
 (4) How to choose the point on the Pareto frontier (Multi-objective Optimization/Many-objective Optimization) that is more suitable for practical engineering problems?
 
 
-## News in 2024
+## News
+**2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
 
-**2024.9.13**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**. Congratulations!
+**2024.9.13**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**  and I am the first author. Congratulations!
 
 **2024.6.15**  My new research Paper "A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism" is now available online on **Applied Soft Computing (JCR Q1, IF=8.7)**, you can download the whole paper at [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863). I am the corresponding author as well as the co-first author of this paper. 
 
