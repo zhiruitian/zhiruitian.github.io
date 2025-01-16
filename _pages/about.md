@@ -40,6 +40,10 @@ Currently, my research endeavors are principally centered on the intersection of
 
 
 ## News
+**2024.1.16**  My new research Paper "EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+
+**2024.1.15**  My new research Paper "MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+
 **2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
 
 **2024.9.13**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**  and I am the first author. Congratulations!
