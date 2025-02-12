@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank the **2nd** in the School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank **2nd** in the School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
 
 ## My Interests
 
@@ -40,9 +40,13 @@ Currently, my research endeavors are principally centered on the intersection of
 
 
 ## News
+**2025.1.28**  I supervise three teams for The Mathematical Contest in Modeling (MCM/ICM) at Dongbei University of Finance and Economics. Thank you for your trust and wish we good luck.
+
 **2025.1.16**  My new research Paper "EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
 **2025.1.15**  My new research Paper "MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+
+**2025.1.15**  My research Paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" has been honored with the **Best Paper Award of Shenzhen Association Science and Technology**. I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
 **2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
 
