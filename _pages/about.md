@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank the **2nd** in School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank the **2nd** in the School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
 
 ## My Interests
 
@@ -24,25 +24,25 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **4. Innovative Transfer Strategies for Few-shot Learning Problems**: I am investigating how to effectively adapt pre-trained models to new, limited-data contexts within the energy sector. This includes creating robust models that can generalize well from minor data quantity, thereby addressing the data scarcity issue prevalent in many specialized energy applications.
 
-**5. Hybrid Framework Design for Ultra-short-term Time-Series Prediction**: My work involves the integration of various modeling approaches (such as ensemble model, combiend model and strategies after prediction) to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading. We also explore the impact of data processing on prediction results, including data augmentation, one-hot ecoding, feature engineering, de-nosing strategy and some fuzzy methods.
+**5. Hybrid Framework Design for Ultra-short-term Time-Series Prediction**: My work involves the integration of various modeling approaches (such as ensemble model, combined model, and strategies after prediction) to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading. We also explore the impact of data processing on prediction results, including data augmentation, one-hot encoding, feature engineering, de-nosing strategy and some fuzzy methods.
 
 **6. Developing, Advancement, and Application of Evolutionary Computation**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources. These interests involve single-objective as well as multi-objective optimization, the specific sub-directions are as follows.
 
 (1) The performance of the current meta-heuristic optimizer in some complex test functions is not always satisfactory. Can we design a new meta-heuristic optimizer to solve it?
 
-(2) How to improve meta-heuristic optimizer to achieve better performance in CEC function?
+(2) How to improve the meta-heuristic optimizer to achieve better performance in the CEC function?
 
 (3) How to design better surrogate-assisted strategies to assist evolutionary computing for Expensive Optimization Problems(EOP)?
 
-(3) How to apply the optimizer in the real problems, especially in prediction models to further enhance its accuracy?
+(4) How to apply the optimizer in real problems, especially in prediction models to further enhance its accuracy?
 
-(4) How to choose the point on the Pareto frontier (Multi-objective Optimization/Many-objective Optimization) that is more suitable for practical engineering problems?
+(5) How to choose the point on the Pareto frontier (Multi-objective Optimization/Many-objective Optimization) that is more suitable for practical engineering problems?
 
 
 ## News
-**2024.1.16**  My new research Paper "EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+**2025.1.16**  My new research Paper "EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
-**2024.1.15**  My new research Paper "MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+**2025.1.15**  My new research Paper "MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting" is now available online on **Applied Energy (JCR Q1, IF=10.1)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
 **2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
 
