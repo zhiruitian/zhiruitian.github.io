@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
-**1.** **Best Paper** Award of Shenzhen Association Science and Technology (First Author).
+**1.** **Best Paper Award** of Shenzhen Association Science and Technology (First Author).
 
 **2.** Mathematical Contest in Modeling (MCM) By COMAP in 2022: **Meritorious Winner** (Team Leader).
 
