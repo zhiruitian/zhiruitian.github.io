@@ -28,15 +28,8 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **6. Developing, Advancement, and Application of Evolutionary Computation**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources. These interests involve single-objective as well as multi-objective optimization, the specific sub-directions are as follows.
 
-(1) The performance of the current meta-heuristic optimizer in some complex test functions is not always satisfactory. Can we design a new meta-heuristic optimizer to solve it?
-
-(2) How to improve the meta-heuristic optimizer to achieve better performance in the CEC function?
-
-(3) How to design better surrogate-assisted strategies to assist evolutionary computing for Expensive Optimization Problems(EOP)?
-
-(4) How to apply the optimizer in real problems, especially in prediction models to further enhance its accuracy?
-
-(5) How to choose the point on the Pareto frontier (Multi-objective Optimization/Many-objective Optimization) that is more suitable for practical engineering problems?
+## Academic Services
+Currently, I am the reviewer of some field top journals such as Energy Conversion and Management, Energy, Renewable Energy, Engineering Applications of Artificial Intelligence, Engineering Applications of Artificial Intelligence, and Artificial Intelligence Review, at the same time, I am also the reviewer of some SCI journals such as Scientific Reports, Cluster Computing, The Journal of Supercomputing, etc.
 
 
 ## News
