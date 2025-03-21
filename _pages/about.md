@@ -29,7 +29,7 @@ Currently, my research endeavors are principally centered on the intersection of
 **6. Developing, Advancement, and Application of Evolutionary Computation**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources. These interests involve single-objective as well as multi-objective optimization, the specific sub-directions are as follows.
 
 ## Academic Services
-Currently, I am the reviewer of some field top journals such as Energy Conversion and Management, Energy, Renewable Energy, Engineering Applications of Artificial Intelligence, Engineering Applications of Artificial Intelligence, and Artificial Intelligence Review, at the same time, I am also the reviewer of some SCI journals such as Scientific Reports, Cluster Computing, The Journal of Supercomputing, etc.
+Currently, I am the reviewer of some field top journals such as Energy Conversion and Management, Energy, Renewable Energy, Expert Systems with Applications, Engineering Applications of Artificial Intelligence, and Artificial Intelligence Review, at the same time, I am also the reviewer of some SCI journals such as Scientific Reports, Cluster Computing, The Journal of Supercomputing, etc.
 
 
 ## News
