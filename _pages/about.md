@@ -24,9 +24,15 @@ Currently, my research endeavors are principally centered on the intersection of
 
 **4. Innovative Transfer Strategies for Few-shot Learning Problems**: I am investigating how to effectively adapt pre-trained models to new, limited-data contexts within the energy sector. This includes creating robust models that can generalize well from minor data quantity, thereby addressing the data scarcity issue prevalent in many specialized energy applications.
 
-**5. Hybrid Framework Design for Ultra-short-term Time-Series Prediction**: My work involves the integration of various modeling approaches (such as ensemble model, combined model, and strategies after prediction) to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading. We also explore the impact of data processing on prediction results, including data augmentation, one-hot encoding, feature engineering, de-nosing strategy and some fuzzy methods.
+**5. Hybrid Framework Design for Ultra-short-term Time-Series Prediction**: My work involves the integration of various modeling approaches (such as ensemble model, combined model, and strategies after prediction) to enhance the accuracy of ultra-short-term forecasts. By combining different predictive models, we aim to leverage their respective strengths and mitigate their weaknesses, leading to superior prediction performance for critical applications like real-time energy dispatch and trading. We also explore the impact of data processing on prediction results, including data augmentation, one-hot encoding, feature engineering, de-nosing strategy, and some fuzzy methods.
 
 **6. Developing, Advancement, and Application of Evolutionary Computation**: I am keen on developing and refining meta-heuristic algorithms to solve complex optimization problems in the energy domain. These algorithms are crucial for optimizing grid operations, enhancing the efficiency of energy systems, and facilitating the integration of renewable energy sources. These interests involve single-objective as well as multi-objective optimization, the specific sub-directions are as follows.
+
+1) Existing meta-heuristic optimization algorithms often perform poorly on high-dimensional optimization problems. How can we design new meta-heuristic optimization, or enhance original meta-heuristic optimization algorithms to address this issue?
+
+2) How can a Surrogate-Assisted Evolutionary Algorithm (SAEA) be designed to solve Expensive Optimization Problems (EOP) better?
+
+3) How can we better expand/shrink the Pareto Frontier to meet practical engineering applications when dealing with multi-objective/many-objective optimization problems?
 
 ## Academic Services
 Currently, I am the reviewer of some field top journals such as Energy Conversion and Management, Energy, Renewable Energy, Expert Systems with Applications, Engineering Applications of Artificial Intelligence, and Artificial Intelligence Review, at the same time, I am also the reviewer of some SCI journals such as Scientific Reports, Cluster Computing, The Journal of Supercomputing, etc.
