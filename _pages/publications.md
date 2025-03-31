@@ -37,6 +37,6 @@ author_profile: true
 
 ## Conference
 
-**[1]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5, [10.1109/PESGM51994.2024.1068861](10.1109/PESGM51994.2024.1068861).
+**[1]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
 
-**[2]** Wenpu Sun, **Zhirui Tian**, Chenye Wu, Enhancing Probabilistic Peak Load Forecasting with Fuzzy Information Granulation and Deep Learning, 2024 3rd International Conference on Power Systems and Electrical Technology (PSET), Tokyo, Japan, 2024, pp. 810-815, [10.1109/PSET62496.2024.10808508](10.1109/PSET62496.2024.10808508).
+**[2]** Wenpu Sun, **Zhirui Tian**, Chenye Wu, Enhancing Probabilistic Peak Load Forecasting with Fuzzy Information Granulation and Deep Learning, 2024 3rd International Conference on Power Systems and Electrical Technology (PSET), Tokyo, Japan, 2024, pp. 810-815.
