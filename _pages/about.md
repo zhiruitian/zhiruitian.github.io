@@ -51,6 +51,6 @@ Currently, I am the reviewer of some field top journals such as Energy Conversio
 
 **2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
 
-**2024.1.12**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**  and I am the first author. Congratulations!
+**2025.1.12**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**  and I am the first author. Congratulations!
 
 
