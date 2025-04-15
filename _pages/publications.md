@@ -36,7 +36,7 @@ author_profile: true
 
 **[14]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, https://doi.org/10.1016/j.apenergy.2024.124717.[https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=10.1, JCR Q1**.
 
-**[14]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=7.2, JCR Q1**.
+**[15]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=7.2, JCR Q1**.
 
 
 ## Conference
