@@ -39,7 +39,7 @@ Currently, I am the reviewer of some field top journals such as Energy Conversio
 
 
 ## News in 2025
-**2025.3.30**  My new research Paper "From LMP to eLMP: An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble" is now Accepted by **Energy (JCR Q1, IF=9.0)**. I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+**2025.3.30**  My new research Paper "From LMP to eLMP: An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble" is now available online on **Energy (JCR Q1, IF=9.0)**, you can download the whole paper at [https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
 **2025.1.28**  I supervise three teams for The Mathematical Contest in Modeling (MCM/ICM) at Dongbei University of Finance and Economics. Thank you for your trust and wish we good luck.
 
