@@ -26,7 +26,7 @@ author_profile: true
 **[9]** **Zhirui Tian**, Mei Gai, A new paradigm based on Wasserstein Generative Adversarial Network and time-series graph for integrated energy system forecasting, Energy Conversion and Management, Volume 326, 2025,
 119484, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2025.119484](https://doi.org/10.1016/j.enconman.2025.119484), **IF=9.9, JCR Q1**.
 
-**[10]** **Zhirui Tian**, Jiyang Wang, A wind speed prediction system based on new data preprocessing strategy and improved multi-objective optimizer, Renewable Energy, Volume 215, 2023, 118932, ISSN 0960-1481, [https://doi.org/10.1016/j.renene.2023.118932](https://doi.org/10.1016/j.renene.2023.118932), **IF=8.7, JCR Q1**.
+**[10]** **Zhirui Tian**, Jiyang Wang, A wind speed prediction system based on new data preprocessing strategy and improved multi-objective optimizer, Renewable Energy, Volume 215, 2023, 118932, ISSN 0960-1481, [https://doi.org/10.1016/j.renene.2023.118932](https://doi.org/10.1016/j.renene.2023.118932), **IF=9, JCR Q1**.
 
 **[11]** **Zhirui Tian**, Mei Gai, New PM2.5 forecasting system based on combined neural network and an improved multi-objective optimization algorithm: Taking the economic belt surrounding the Bohai Sea as an example, Journal of Cleaner Production, Volume 375, 2022, 134048, ISSN 0959-6526, [https://doi.org/10.1016/j.jclepro.2022.134048](https://doi.org/10.1016/j.jclepro.2022.134048), **IF=9.8, JCR Q1**.
 
