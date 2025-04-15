@@ -15,7 +15,7 @@ author_profile: true
 
 **[4]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting, Applied Energy, Volume 383, 2025, 125330, ISSN 0306-2619,[https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330), **IF=10.1, JCR Q1**.
 
-**[5]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, , From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble, Energy, 2025, 135926, ISSN 0360-5442,[https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926), **IF=9, JCR Q1**.
+**[5]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, , From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble, Energy, 2025, 135926, ISSN 0360-5442， [https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926), **IF=9, JCR Q1**.
 
 **[6]** **Zhirui Tian**, Mei Gai, A novel hybrid wind speed prediction framework based on multi-strategy improved optimizer and new data pre-processing system with feedback mechanism, Energy, Volume 281, 2023, 128225, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2023.128225](https://doi.org/10.1016/j.energy.2023.128225), **IF=9, JCR Q1**.
 
