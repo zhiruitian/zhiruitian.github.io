@@ -13,7 +13,7 @@ author_profile: true
 
 **[3]** **Zhirui Tian**, Weican Liu, Jiahao Zhang, Wenpu Sun, Chenye Wu, EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch, Applied Energy, Volume 383, 2025, 125319, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319), **IF=10.1, JCR Q1**.
 
-**[4]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting, Applied Energy, Volume 383, 2025, 125330, ISSN 0306-2619,[https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330), **IF=10.1, JCR Q1**.
+**[4]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting, Applied Energy, Volume 383, 2025, 125330, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330), **IF=10.1, JCR Q1**.
 
 **[5]** **Zhirui Tian**, Yujie Chen, Guangyu Wang, Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning, Applied Energy, Volume 386, 2025, 125525, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525), **IF=10.1, JCR Q1**.
 
