@@ -34,9 +34,9 @@ author_profile: true
 
 **[13]** **Zhirui Tian**, Jiyang Wang, A Novel Wind Speed Interval Prediction System Based on Neural Network and Multi-objective Grasshopper Optimization, International Transactions on Electrical Energy Systems, vol. 2022, 2022, [https://doi.org/10.1155/2022/5823656](https://doi.org/10.1155/2022/5823656), **IF=2.3, JCR Q3**.
 
-**[14]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=8.7, JCR Q1**.
+**[14]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, https://doi.org/10.1016/j.apenergy.2024.124717.[https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=10.1, JCR Q1**.
 
-**[15]** Wendong Yang, **Zhirui Tian(*)**, Yan Hao, A novel ensemble model based on artificial intelligence and mixed-frequency techniques for wind speed forecasting, Energy Conversion and Management, Volume 252, 2022, 115086, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2021.115086](https://doi.org/10.1016/j.enconman.2021.115086), **IF=10.4, JCR Q1**.
+**[14]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=7.2, JCR Q1**.
 
 
 ## Conference
