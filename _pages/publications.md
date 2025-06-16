@@ -43,6 +43,6 @@ author_profile: true
 
 **[1]** Lili Jiang, Zhiren Tian and **Zhirui Tian(*)**, Uncovering Temperature-Load Sensitivity via Structure Modeling and IVGMM, 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2), Shenyang, China, 2024, pp. 839-844, doi: 10.1109/EI264398.2024.10991587.
 
-**[1]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
+**[2]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
 
-**[2]** Wenpu Sun, **Zhirui Tian**, Chenye Wu, Enhancing Probabilistic Peak Load Forecasting with Fuzzy Information Granulation and Deep Learning, 2024 3rd International Conference on Power Systems and Electrical Technology (PSET), Tokyo, Japan, 2024, pp. 810-815.
+**[3]** Wenpu Sun, **Zhirui Tian**, Chenye Wu, Enhancing Probabilistic Peak Load Forecasting with Fuzzy Information Granulation and Deep Learning, 2024 3rd International Conference on Power Systems and Electrical Technology (PSET), Tokyo, Japan, 2024, pp. 810-815.
