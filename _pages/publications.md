@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal
+## Journal (仅列中科院一区)
 **[1]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Shenzhen Association Science and Technology: Best Paper Award**, **Highly Cited Paper**, **IF=9, JCR Q1**.
 
 **[2]** **Zhirui Tian**, Mei Gai, Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization, Expert Systems with Applications, Volume 245, 2024, 123088, ISSN 0957-4174,
@@ -30,13 +30,7 @@ author_profile: true
 
 **[11]** **Zhirui Tian**, Mei Gai, New PM2.5 forecasting system based on combined neural network and an improved multi-objective optimization algorithm: Taking the economic belt surrounding the Bohai Sea as an example, Journal of Cleaner Production, Volume 375, 2022, 134048, ISSN 0959-6526, [https://doi.org/10.1016/j.jclepro.2022.134048](https://doi.org/10.1016/j.jclepro.2022.134048), **IF=9.8, JCR Q1**.
 
-**[12]** **Zhirui Tian**, Mei Gai. A novel air pollution prediction system based on data processing, fuzzy theory, and multi-strategy improved optimizer, Environmental Science and Pollution Research, 30, 59719–59736 (2023). [https://doi.org/10.1007/s11356-023-26578-1](https://doi.org/10.1007/s11356-023-26578-1), **IF=5.8, JCR Q1**.
-
-**[13]** **Zhirui Tian**, Jiyang Wang, A Novel Wind Speed Interval Prediction System Based on Neural Network and Multi-objective Grasshopper Optimization, International Transactions on Electrical Energy Systems, vol. 2022, 2022, [https://doi.org/10.1155/2022/5823656](https://doi.org/10.1155/2022/5823656), **IF=2.3, JCR Q3**.
-
-**[14]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=10.1, JCR Q1**.
-
-**[15]** Zhaochen Dong, **Zhirui Tian(*)(co-first author)**, A short-term power load forecasting system based on data decomposition, deep learning and weighted linear error correction with feedback mechanism, Applied Soft Computing, 2024, 111863, ISSN 1568-4946, [https://doi.org/10.1016/j.asoc.2024.111863](https://doi.org/10.1016/j.asoc.2024.111863), **IF=7.2, JCR Q1**.
+**[12]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=10.1, JCR Q1**.
 
 
 ## Conference
