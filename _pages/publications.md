@@ -17,20 +17,22 @@ author_profile: true
 
 **[5]** **Zhirui Tian**, Yujie Chen, Guangyu Wang, Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning, Applied Energy, Volume 386, 2025, 125525, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525), **IF=11.0, JCR Q1**.
 
-**[6]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, , From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble, Energy, 2025, 135926, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926), **IF=9.4, JCR Q1**.
+**[6]** **Zhirui Tian**, Wenpu Sun, Chenye Wu, From LMP to eLMP: An accurate transfer strategy for electricity price prediction based on learning ensemble, Energy, 2025, 135926, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926), **IF=9.4, JCR Q1**.
 
 **[7]** **Zhirui Tian**, Mei Gai, A novel hybrid wind speed prediction framework based on multi-strategy improved optimizer and new data pre-processing system with feedback mechanism, Energy, Volume 281, 2023, 128225, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2023.128225](https://doi.org/10.1016/j.energy.2023.128225), **IF=9.4, JCR Q1**.
 
 **[8]** **Zhirui Tian**, Jiyang Wang, Variable frequency wind speed trend prediction system based on combined neural network and improved multi-objective optimization algorithm, Energy, Volume 254, Part A, 2022, 124249, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2022.124249](https://doi.org/10.1016/j.energy.2022.124249), **IF=9.4, JCR Q1**.
 
-**[9]** **Zhirui Tian**, Mei Gai, A new paradigm based on Wasserstein Generative Adversarial Network and time-series graph for integrated energy system forecasting, Energy Conversion and Management, Volume 326, 2025,
+**[9]** **Zhirui Tian**, Mei Gai, Advancing local deployment of renewable energy prediction models through knowledge distillation with time–frequency domain fusion, Advanced Engineering Informatics, Volume 68, Part A, 2025, 103582, ISSN 1474-0346, [https://doi.org/10.1016/j.aei.2025.103582](https://doi.org/10.1016/j.aei.2025.103582). **IF=9.9, JCR Q1, CCF-B**.
+
+**[10]** **Zhirui Tian**, Mei Gai, A new paradigm based on Wasserstein Generative Adversarial Network and time-series graph for integrated energy system forecasting, Energy Conversion and Management, Volume 326, 2025,
 119484, ISSN 0196-8904, [https://doi.org/10.1016/j.enconman.2025.119484](https://doi.org/10.1016/j.enconman.2025.119484), **IF=10.9, JCR Q1**.
 
-**[10]** **Zhirui Tian**, Jiyang Wang, A wind speed prediction system based on new data preprocessing strategy and improved multi-objective optimizer, Renewable Energy, Volume 215, 2023, 118932, ISSN 0960-1481, [https://doi.org/10.1016/j.renene.2023.118932](https://doi.org/10.1016/j.renene.2023.118932), **IF=9.1, JCR Q1**.
+**[11]** **Zhirui Tian**, Jiyang Wang, A wind speed prediction system based on new data preprocessing strategy and improved multi-objective optimizer, Renewable Energy, Volume 215, 2023, 118932, ISSN 0960-1481, [https://doi.org/10.1016/j.renene.2023.118932](https://doi.org/10.1016/j.renene.2023.118932), **IF=9.1, JCR Q1**.
 
-**[11]** **Zhirui Tian**, Mei Gai, New PM2.5 forecasting system based on combined neural network and an improved multi-objective optimization algorithm: Taking the economic belt surrounding the Bohai Sea as an example, Journal of Cleaner Production, Volume 375, 2022, 134048, ISSN 0959-6526, [https://doi.org/10.1016/j.jclepro.2022.134048](https://doi.org/10.1016/j.jclepro.2022.134048), **IF=10.0, JCR Q1**.
+**[12]** **Zhirui Tian**, Mei Gai, New PM2.5 forecasting system based on combined neural network and an improved multi-objective optimization algorithm: Taking the economic belt surrounding the Bohai Sea as an example, Journal of Cleaner Production, Volume 375, 2022, 134048, ISSN 0959-6526, [https://doi.org/10.1016/j.jclepro.2022.134048](https://doi.org/10.1016/j.jclepro.2022.134048), **IF=10.0, JCR Q1**.
 
-**[12]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=11.0, JCR Q1**.
+**[13]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=11.0, JCR Q1**.
 
 
 ## Conference
