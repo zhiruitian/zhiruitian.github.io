@@ -35,7 +35,7 @@ Currently, my research endeavors are principally centered on the intersection of
 3) How can we better expand/shrink the Pareto Frontier to meet practical engineering applications when dealing with multi-objective/many-objective optimization problems?
 
 ## Academic Services
-Currently, I am the reviewer of some field top journals such as IEEE Trans on Smart Grid, Applied Energy, Energy Conversion and Management, Energy, Renewable Energy, Swarm and Evolutionary Computation, Artificial Intelligence Review, at the same time, I am also the reviewer of some other SCI journals such as Expert Systems with Applications, Engineering Applications of Artificial Intelligence, Neurocomputing, Scientific Reports, etc.
+Currently, I am the reviewer of some field top journals such as Information Fusion, IEEE Trans on Smart Grid, Applied Energy, Energy Conversion and Management, Energy, Renewable Energy, Swarm and Evolutionary Computation, Artificial Intelligence Review, at the same time, I am also the reviewer of some other SCI journals such as Expert Systems with Applications, Engineering Applications of Artificial Intelligence, Neurocomputing, Scientific Reports, etc.
 
 
 ## News in 2025
