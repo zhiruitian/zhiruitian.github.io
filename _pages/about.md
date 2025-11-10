@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank **2nd** in the School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
+Hi everyone! I am **Zhirui Tian** (田智睿), a Ph.D. Candidate at [School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen)](https://sse.cuhk.edu.cn/). My major is Computer and Information Engineering (CIE), and I am very fortunate to be supervised by [**Prof. Chenye Wu**](https://www.wuchenye.cn/index-cn.html). Before that, I obtained a bachelor's degree at [School of Statistics, Dongbei University of Finance and Economics (DUFE)](https://stat.dufe.edu.cn/), supervised by [**Prof. Jianzhou Wang**](https://www.must.edu.mo/cn/imedia/expert-list/mise). I rank **2nd** in the School of Statistics, DUFE with a GPA of (92.45/100), and was honored with the Outstanding Graduates of Dongbei University of Finance and Economics Award in 2023.
 
 ## My Interests
 
@@ -35,7 +35,7 @@ Currently, my research endeavors are principally centered on the intersection of
 3) How can we better expand/shrink the Pareto Frontier to meet practical engineering applications when dealing with multi-objective/many-objective optimization problems?
 
 ## Academic Services
-Currently, I am the reviewer of some field top journals such as Information Fusion, IEEE Trans on Smart Grid, Applied Energy, Energy Conversion and Management, Energy, Renewable Energy, Swarm and Evolutionary Computation, Artificial Intelligence Review, at the same time, I am also the reviewer of some other SCI journals such as Expert Systems with Applications, Engineering Applications of Artificial Intelligence, Neurocomputing, Scientific Reports, etc.
+Currently, I am the reviewer of some field top journals such as Information Fusion, IEEE Trans on Smart Grid, Applied Energy, IEEE Trans on Power Systems, Energy Conversion and Management, Energy, Swarm and Evolutionary Computation, at the same time, I am also the reviewer of some other SCI journals such as Expert Systems with Applications, Engineering Applications of Artificial Intelligence, Neurocomputing, Scientific Reports, etc.
 
 
 ## News in 2025
