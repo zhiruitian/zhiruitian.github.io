@@ -39,6 +39,8 @@ Currently, I am the reviewer of some field top journals such as Information Fusi
 
 
 ## News in 2025
+**2025.11.16**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=7.5)** has been honored as an **ESI Hot Paper (TOP 0.1%)** and I am the first author. Congratulations!
+
 **2025.7.16**  Three of my papers, "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability", "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization", and "A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting" have been honored as an **ESI Highly Cited Paper (TOP 1%)**. Congratulations!
 
 **2025.3.30**  My new research Paper "From LMP to eLMP: An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble" is now available online on **Energy (JCR Q1, IF=9.4)**, you can download the whole paper at [https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
