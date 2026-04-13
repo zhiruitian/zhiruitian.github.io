@@ -39,6 +39,9 @@ My current research primarily focuses on the intersection of **Artificial Intell
 ## Academic Services
 Currently, I am the reviewer of some field top journals such as Information Fusion, IEEE Transactions on Smart Grid, Applied Energy, IEEE Transactions on Power Systems, Energy Conversion and Management, Energy, Swarm and Evolutionary Computation, at the same time, I am also the reviewer of some other SCI journals such as Expert Systems with Applications, Engineering Applications of Artificial Intelligence, Neurocomputing, Scientific Reports, etc.
 
+## News in 2026
+**2026.3.30**  My new research Paper "Enhancing long-sequence photovoltaic power forecasting accuracy through multi-modal learning: Integrating satellite cloud images and time–frequency domain fusion" is now available online on **Advanced Engineering Informatics (JCR Q1, IF=9.9)**, you can download the whole paper at [https://doi.org/10.1016/j.aei.2026.104622](https://doi.org/10.1016/j.aei.2026.104622). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
+
 
 ## News in 2025
 **2025.11.16**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=7.5)** has been honored as an **ESI Hot Paper (TOP 0.1%)** and I am the first author. Congratulations!
@@ -54,9 +57,5 @@ Currently, I am the reviewer of some field top journals such as Information Fusi
 **2025.1.15**  My new research Paper "MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting" is now available online on **Applied Energy (JCR Q1, IF=11.0)**, you can download the whole paper at [https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330). I am the first author of this paper, supervised by **Prof. Chenye Wu**.
 
 **2025.1.15**  My research Paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" has been honored with the **Best Paper Award of Shenzhen Association Science and Technology**. I am the first author of this paper, supervised by **Prof. Chenye Wu**.
-
-**2025.1.12**  My paper "Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization" published on **Expert Systems with Applications (JCR Q1, IF=8.5)** has been honored as an **ESI Highly Cited Paper (TOP 1%)** and I am the first author. Congratulations!
-
-**2025.1.12**  My paper "CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability" published on **Energy (JCR Q1, IF=9)** has been honored as an **ESI Highly Cited Paper (TOP 1%)**  and I am the first author. Congratulations!
 
 
