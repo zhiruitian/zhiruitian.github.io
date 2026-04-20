@@ -5,14 +5,20 @@ permalink: /honors/
 author_profile: true
 ---
 
-**1.** **Best Paper Award** of Shenzhen Association Science and Technology (First Author).
+**1.** 深圳市科协**最佳论文奖**（仅100篇）（第一作者）.
 
-**2.** Mathematical Contest in Modeling (MCM) By COMAP in 2022: **Meritorious Winner** (Team Leader).
+**2.** ESI 热点论文 （引用量 0.1%）（第一作者）.
 
-**3.** Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) in 2022: **National Second Prize** (Team Leader).
+**3.** ESI 高被引论文三篇 （引用量 1%）（两篇第一作者）.
 
-**4.** 11th National College Student Market Research and Analysis Competition in 2021: **National First Prize** (Team Leader).
+**4.** 香港中文大学(深圳)理工学院博士研究与人工智能创新会议**一等奖**
 
-**5.**	National Statistical Modeling Competition for College students in 2021: **National Third Prize** (Team Leader).
+**5** 香港中文大学(深圳)理工学院人工智能(科学和工程)奖学金
 
-**6.**	**National Projects** for Innovation and Entrepreneurship of College Students (Responsible Person).
+**6.** 2022年美国大学生数学建模竞赛: **Meritorious Winner** (队长).
+
+**7.** 2022年中国大学生数学建模竞赛: **国家级二等奖** (队长).
+
+**8.** 第11届全国大学生市场调查大赛: **国家级一等奖** (队长).
+
+**9.**	**国家级**大创项目 (负责人).
