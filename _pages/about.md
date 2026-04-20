@@ -43,7 +43,7 @@ redirect_from:
 
 ## 学术服务
 
-目前，我担任多个领域顶级期刊的审稿人，例如 Information Fusion、IEEE Transactions on Smart Grid、Applied Energy、IEEE Transactions on Power Systems、Energy Conversion and Management、Energy、Swarm and Evolutionary Computation 等。同时，我也为多个 SCI 期刊提供审稿服务，包括 Expert Systems with Applications、Engineering Applications of Artificial Intelligence、Neurocomputing、Scientific Reports 等。
+目前，我担任超过20本学术期刊的审稿人，其中涵盖多个领域顶级期刊，例如 Information Fusion、IEEE Transactions on Smart Grid、Applied Energy、IEEE Transactions on Power Systems、Energy Conversion and Management、Energy、Swarm and Evolutionary Computation 等。
 
 ## 2026年新闻
 
@@ -53,7 +53,7 @@ redirect_from:
 ## 2025年新闻
 
 **2025.11.16**  
-我的论文 **“Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization”** 发表于 **Expert Systems with Applications（JCR Q1, IF=7.5）**，并被评为 **ESI 热点论文（TOP 0.1%）**，我是第一作者。恭喜！
+我的论文 **“Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization”** 发表于 **Expert Systems with Applications（中科院一区, IF=7.5）**，并被评为 **ESI 热点论文（TOP 0.1%）**，我是第一作者。恭喜！
 
 **2025.7.16**  
 我的三篇论文 **“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”**、**“Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization”** 和 **“A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting”** 被评为 **ESI 高被引论文（TOP 1%）**。恭喜！
