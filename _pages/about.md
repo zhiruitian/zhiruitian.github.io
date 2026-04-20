@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "世界很大，等你去探索"
 excerpt: ""
 author_profile: true
 redirect_from: 
