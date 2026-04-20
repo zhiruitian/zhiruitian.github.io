@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Honors"
-permalink: /honors/
+title: "所获荣誉"
+permalink: /所获荣誉/
 author_profile: true
 ---
 
