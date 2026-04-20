@@ -11,7 +11,7 @@ redirect_from:
 
 大家好！我是 **Zhirui Tian（田智睿）**，目前是 [香港中文大学（深圳）理工学院](https://sse.cuhk.edu.cn/) 的博士研究生 (Ph.D. Candidate)，专业为计算机与信息工程（CIE），非常荣幸由 [**吴辰晔教授**](https://www.wuchenye.cn/index-cn.html) 指导。在此之前，我于 [东北财经大学统计学院](https://stat.dufe.edu.cn/) 获得学士学位，由 [**王建州教授**](https://www.must.edu.mo/cn/imedia/expert-list/mise) 指导。本科期间，我以（92.45/100）的 GPA 位列东北财经大学统计学院第 **2 名**，并荣获 2023 年东北财经大学优秀毕业生称号。
 
-我即将于2027年1月毕业于香港中文大学(深圳), 目前我正在寻求就业机会（教职/业界），如果您对我的学术背景感兴趣，请不要犹豫与我联系。
+我即将于2027年1月毕业于香港中文大学（深圳），目前我正在寻求就业机会（教职/业界），如果您对我的学术背景感兴趣，请不要犹豫与我联系。
 
 ## 我的研究方向
 
@@ -60,15 +60,15 @@ redirect_from:
 
 **2025.3.30**  
 我的新论文 **“From LMP to eLMP: An Accurate Transfer Strategy for Electricity Price Prediction Based on Learning Ensemble”** 已在 **Energy（中科院一区, IF=9.4）** 在线发表，你可以通过以下链接下载全文：  
-[https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926) ,我是该论文的第一作者。
+[https://doi.org/10.1016/j.energy.2025.135926](https://doi.org/10.1016/j.energy.2025.135926) ，我是该论文的第一作者。
 
 **2025.1.16**  
 我的新论文 **“EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch”** 已在 **Applied Energy（中科院一区, IF=11.0）** 在线发表，你可以通过以下链接下载全文：  
-[https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319) ,我是该论文的第一作者。
+[https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319) ，我是该论文的第一作者。
 
 **2025.1.15**  
 我的新论文 **“MLP-Carbon: A new paradigm integrating multi-frequency and multi-scale techniques for accurate carbon price forecasting”** 已在 **Applied Energy（中科院一区, IF=11.0）** 在线发表，你可以通过以下链接下载全文：  
-[https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330) ,我是该论文的第一作者。
+[https://doi.org/10.1016/j.apenergy.2025.125330](https://doi.org/10.1016/j.apenergy.2025.125330) ，我是该论文的第一作者。
 
 **2025.1.15**  
 我的论文 **“CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability”** 荣获 **深圳市科学技术协会最佳论文奖**，我是该论文的第一作者。
