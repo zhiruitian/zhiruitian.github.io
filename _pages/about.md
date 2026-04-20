@@ -48,7 +48,7 @@ redirect_from:
 ## 2026年新闻
 
 **2026.3.30**  
-我的新论文 **“Enhancing long-sequence photovoltaic power forecasting accuracy through multi-modal learning: Integrating satellite cloud images and time–frequency domain fusion”** 已在 **Advanced Engineering Informatics（JCR Q1, IF=9.9）** 在线发表，你可以通过以下链接下载全文：  [https://doi.org/10.1016/j.aei.2026.104622](https://doi.org/10.1016/j.aei.2026.104622)  我是该论文的第一作者。
+我的新论文 **“Enhancing long-sequence photovoltaic power forecasting accuracy through multi-modal learning: Integrating satellite cloud images and time–frequency domain fusion”** 已在 **Advanced Engineering Informatics（JCR Q1, IF=9.9）** 在线发表，你可以通过以下链接下载全文：  [https://doi.org/10.1016/j.aei.2026.104622](https://doi.org/10.1016/j.aei.2026.104622) ，我是该论文的第一作者。
 
 ## 2025年新闻
 
