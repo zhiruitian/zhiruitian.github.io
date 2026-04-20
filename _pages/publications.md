@@ -9,7 +9,7 @@ author_profile: true
 **[1]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Shenzhen Association Science and Technology: Best Paper Award**, **Highly Cited Paper**, **IF=9.4, 中科院一区**.
 
 **[2]** **Zhirui Tian**, Mei Gai, Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization, Expert Systems with Applications, Volume 245, 2024, 123088, ISSN 0957-4174,
-[https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088), **Highly Cited Paper**, **IF=7.5, 中科院一区**.
+[https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088), **Highly Cited Paper**, **IF=8.0, 中科院一区**.
 
 **[3]** **Zhirui Tian**, Weican Liu, Jiahao Zhang, Wenpu Sun, Chenye Wu, EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch, Applied Energy, Volume 383, 2025, 125319, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319), **IF=11.0, 中科院一区**.
 
@@ -37,7 +37,7 @@ author_profile: true
 
 ## Conference
 
-**[1]** Lili Jiang, Zhiren Tian and **Zhirui Tian(*)**, Uncovering Temperature-Load Sensitivity via Structure Modeling and IVGMM, 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2), Shenyang, China, 2024, pp. 839-844, doi: 10.1109/EI264398.2024.10991587.
+**[1]** Lili Jiang, Zhiren Tian, and **Zhirui Tian(*)**, Uncovering Temperature-Load Sensitivity via Structure Modeling and IVGMM, 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2), Shenyang, China, 2024, pp. 839-844, doi: 10.1109/EI264398.2024.10991587.
 
 **[2]** Weican Liu, **Zhirui Tian**, Jingshi Cui, Chenye Wu, Load Forecasting with Deep Learning: Critical Day Matters, 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5.
 
