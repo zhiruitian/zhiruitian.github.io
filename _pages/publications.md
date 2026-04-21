@@ -8,10 +8,10 @@ author_profile: true
 迄今已在相关领域 (AI & Smart Grid)顶级期刊/会议发表论文20余篇，其中以一作身份发表高水平学术论文(中科院一区论文）10余篇 (Applied Energy, Energy, Energy Conversion and Management, Advanced Engineering Informatics等)，总引用超过 700次，H-index 13, i10-index 16。学术成果深受国内外同行的认可与引用, 其中1篇论文入选 ESI 热点论文 (一作)，3篇论文入选ESI高被引论文 (一作2篇)，1篇论文获2024年第四届深圳市优秀科学技术论文奖 (一作)。
 
 ## 期刊 (仅列中科院一区)
-**[1]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Shenzhen Association Science and Technology: Best Paper Award**, **Highly Cited Paper**, **IF=9.4, 中科院一区**.
+**[1]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Shenzhen Association Science and Technology: Best Paper Award**, **ESI Highly Cited Paper**, **IF=9.4, 中科院一区**.
 
 **[2]** **Zhirui Tian**, Mei Gai, Football team training algorithm: A novel sport-inspired meta-heuristic optimization algorithm for global optimization, Expert Systems with Applications, Volume 245, 2024, 123088, ISSN 0957-4174,
-[https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088), **Highly Cited Paper**, **IF=8.0, 中科院一区**.
+[https://doi.org/10.1016/j.eswa.2023.123088](https://doi.org/10.1016/j.eswa.2023.123088), **ESI HOT Paper**, **IF=8.0, 中科院一区**.
 
 **[3]** **Zhirui Tian**, Weican Liu, Jiahao Zhang, Wenpu Sun, Chenye Wu, EDformer family: End-to-end multi-task load forecasting frameworks for day-ahead economic dispatch, Applied Energy, Volume 383, 2025, 125319, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2025.125319](https://doi.org/10.1016/j.apenergy.2025.125319), **IF=11.0, 中科院一区**.
 
@@ -37,7 +37,7 @@ author_profile: true
 **[13]** Yang Sun, **Zhirui Tian(*)(co-first author)**, Solving few-shot problem in wind speed prediction: A novel transfer strategy based on decomposition and learning ensemble, Applied Energy, Volume 377, Part D, 2025, 124717, ISSN 0306-2619, [https://doi.org/10.1016/j.apenergy.2024.124717](https://doi.org/10.1016/j.apenergy.2024.124717), **IF=11.0, 中科院一区**.
 
 
-## Conference
+## 会议
 
 **[1]** Lili Jiang, Zhiren Tian, and **Zhirui Tian(*)**, Uncovering Temperature-Load Sensitivity via Structure Modeling and IVGMM, 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2), Shenyang, China, 2024, pp. 839-844, doi: 10.1109/EI264398.2024.10991587.
 
