@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+迄今已在相关领域 (AI & Smart Grid)顶级期刊/会议发表论文20余篇，其中以一作身份发表高水平学术论文(中科院一区论文）10余篇 (Applied Energy, Energy, Energy Conversion and Management, Advanced Engineering Informatics等)，总引用超过 700次，H-index 13, i10-index 16。学术成果深受国内外同行的认可与引用, 其中1篇论文入选 ESI 热点论文 (一作)，3篇论文入选ESI高被引论文 (一作2篇)，1篇论文获2024年第四届深圳市优秀科学技术论文奖 (一作)。
+
 ## 期刊 (仅列中科院一区)
 **[1]** **Zhirui Tian**, Weican Liu, Wenqian Jiang, Chenye Wu, CNNs-Transformer based day-ahead probabilistic load forecasting for weekends with limited data availability, Energy, Volume 293, 2024, 130666, ISSN 0360-5442, [https://doi.org/10.1016/j.energy.2024.130666](https://doi.org/10.1016/j.energy.2024.130666), **Shenzhen Association Science and Technology: Best Paper Award**, **Highly Cited Paper**, **IF=9.4, 中科院一区**.
 
